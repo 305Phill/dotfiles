@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = phillipejohnjules@gmail.com
+	name = Phillipe John Jules
